@@ -1,0 +1,7 @@
+thickness:
+  fname: BedMachineAntarctica_2020-07-15_v02.nc
+  smooth: True
+  smoothing_alpha: 1.0E+3
+  smoothing_sd: 1.0
+velocity:
+  fname: antarctic_ice_vel_phase_map_v01.nc

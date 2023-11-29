@@ -1,0 +1,3 @@
+part1:
+  type: constant
+  const: 0.3

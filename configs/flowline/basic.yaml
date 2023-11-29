@@ -1,0 +1,4 @@
+smoothing:
+  smooth: False
+npoints: 500
+out_npoints: 500

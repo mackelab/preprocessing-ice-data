@@ -1,0 +1,7 @@
+name: hybrid
+laws:
+  log_fluidity:
+    temp: 263.15
+  friction:
+    type: constant
+    const: 0.0

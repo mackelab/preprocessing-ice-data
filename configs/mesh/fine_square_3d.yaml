@@ -1,0 +1,8 @@
+dim: 3
+type: rectangle
+nx: 200
+ny: 10
+Lx: 12.5e+4
+Ly: 1.0e+4
+mesh_family: CG
+mesh_degree: 2

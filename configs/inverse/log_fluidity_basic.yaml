@@ -1,0 +1,10 @@
+param: log_fluidity
+loss:
+  type: L2
+reg:
+  type: smooth
+  const: 1.0E+3
+optim:
+  gradient_tolerance: 2.0E-4
+  step_tolerance: 1.0E-1
+  max_iterations: 100

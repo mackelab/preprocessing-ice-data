@@ -1,0 +1,9 @@
+smoothing:
+  smooth: True
+  smoothing_constant: 0.05
+embedded_mesh:
+  mesh_file: flowline_test.msh
+  mesh_family: CG
+  mesh_degree: 1
+npoints: 500
+out_npoints: 500

@@ -1,0 +1,17 @@
+thickness:
+  base:
+    type: linear
+    f_in: 600.0
+    f_out: 300.0
+  noise: False
+vx:
+  base:
+    type: linear
+    f_in: 100.0
+    f_out: 300.0
+  noise: False
+vy:
+  base:
+    type: constant
+    const: 0.0
+  noise: False

@@ -1,0 +1,5 @@
+part1:
+  type: GP
+  scale: 0.1
+  length_scale: 1.0e+4
+  const: 0.5

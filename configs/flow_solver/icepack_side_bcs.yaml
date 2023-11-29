@@ -1,0 +1,4 @@
+side_wall_ids: []
+dirichlet_ids: [1,3,4]
+diagnostic_solver_type: "icepack"
+diagnostic_solver_parameters: {}

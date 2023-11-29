@@ -1,0 +1,4 @@
+dim: 2
+mesh_file: flowtube_test.msh
+mesh_family: CG
+mesh_degree: 2

@@ -1,0 +1,14 @@
+defaults:
+  - flow_solver: icepack
+  - flowline: basic
+  - icepack_model: hybrid_shelf
+  - ics: perfect_flowtube
+  - mesh: small_3d
+  - spinup: short
+  - mass_balance: stable_GP
+  - _self_
+
+shelf: Synthetic_3d
+name: test
+save_figs: True
+overwrite: True

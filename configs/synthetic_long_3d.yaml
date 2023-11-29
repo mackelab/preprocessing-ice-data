@@ -1,0 +1,14 @@
+defaults:
+  - flow_solver: icepack_side_bcs
+  - flowline: basic
+  - icepack_model: hybrid_shelf
+  - ics: converging_flowtube
+  - mesh: fine_square_3d
+  - spinup: long
+  - mass_balance: linear_and_spike
+  - _self_
+
+shelf: Synthetic_3d
+name: flowtube_tmb_final
+save_figs: True
+overwrite: True

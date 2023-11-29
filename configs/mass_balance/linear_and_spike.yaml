@@ -1,0 +1,11 @@
+part1:
+  type: linear
+  f_in: -0.6
+  f_out: -0.55
+
+part2:
+  type: gaussian_spike
+  base: 0.0
+  magnitude: 0.3
+  relative_location: 0.7
+  relative_lengthscale: 0.1

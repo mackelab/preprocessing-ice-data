@@ -1,0 +1,13 @@
+defaults:
+  - flow_solver: ekstrom_inversion
+  - flowline: from_mesh_file
+  - icepack_model: viscous_shelf
+  - mesh: ekstrom_flowtube
+  - data: ekstrom_example
+  - inverse: log_fluidity_basic
+  - _self_
+
+shelf: Ekstrom
+name: test
+save_figs: True
+overwrite: True

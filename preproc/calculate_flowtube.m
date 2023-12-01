@@ -8,7 +8,7 @@ close all
 [xgrid,ygrid] = psgrid('Ekstrom Ice Shelf',[200,200],10,'xy'); %Create grid of points on Ekstrom
 
 % load IRH transect dataset
-Data = load("../data/Ekstrom/LayerData_flowline_all.mat")
+Data = load("../data/Ekstrom/Ekstroem_flowline_GPR_IRH_data.mat")
 lat = transpose(Data.lat);
 lon = transpose(Data.lon);
 [xdata,ydata] = ll2ps(lat,lon);

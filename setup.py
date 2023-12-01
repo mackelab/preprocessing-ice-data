@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = "preprocessing_ice_data"
-URL = "https://github.com/mackelab/preprocessing_ice_data"
+NAME = "preprocessing-ice-data"
+URL = "https://github.com/mackelab/preprocessing-ice-data"
 EMAIL = "guy.moss@student.uni-tuebingen.de"
 AUTHOR = "Guy Moss"
 REQUIRES_PYTHON = ">=3.9.0"

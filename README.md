@@ -2,7 +2,7 @@
 
 This repository contains research code for "Simulation-Based Inference of Surface Accumulation and Basal Melt Rates of an Antarctic Ice shelf from Isochronal Layers".
 The repository used here is used to preprocess ice shelf thickness and velocity data from the real world, and to create synthetic ice shelves, in order to extract realistic transects. These transects are used in the main [repository](https://github.com/mackelab/sbi-ice) for the paper.
-The picked IRH transect data required to run `calculate_flowtube.m`is found [here](https://nc-geophysik.guz.uni-tuebingen.de/index.php/s/wH5zqPaBGZAPRyD).
+The picked IRH transect data required to run `calculate_flowtube.m`is found [here](https://doi.pangaea.de/10.1594/PANGAEA.965143).
 
 ## Installation
 
